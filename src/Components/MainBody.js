@@ -29,9 +29,9 @@ export const MainBody = () => {
         <div>
           <h2 className="about_text_head">About Myself</h2>
           <p>
-            Hello, my name is Angela, and I believe that focusing on your
+            Hello, my name is Swarnali Nath, and I believe that focusing on your
             company's data security plan is essential to growing your company's
-            business. With over 10 years of experience in information and data
+            business. With over 0 years of experience in information and data
             security, my knowledge and skills can help you create effective
             security strategies. My dedication to creating comprehensive data
             security plans can also help your company improve its data integrity

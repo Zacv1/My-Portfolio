@@ -1,0 +1,150 @@
+.font1{
+    font-family: "Bilbo Swash Caps", cursive;
+}
+
+.font2{
+    font-family: "Explora", serif;
+}
+
+.font3{
+    font-family: "Aref Ruqaa Ink", serif;
+}
+
+.Main-div{
+    background-color: #FFFBE9;
+    color: white;
+    font-family: "Aref Ruqaa Ink", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: larger;
+}
+
+.Myself{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #E3CAA5;
+    padding: 3% 20% 3% 20%;
+    justify-content: space-between;
+}
+
+.Profile{
+    height: 300px;
+    box-shadow: 3px 3px 10px 3px #c35c17;
+    z-index: 10;
+}
+
+.About{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: black;
+    padding: 3% 10% 3% 10%;
+    justify-content: space-between;
+    gap: 60px;
+}
+
+.about_text_head{
+    display: flex;
+    align-items: center;
+    font-family: "Bilbo Swash Caps", cursive;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 60px;
+}
+
+.abtbtnbox{
+    display: flex;
+    justify-content: center;
+}
+
+.abtbtn{
+    background: white;
+    color: black;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 8px;
+    margin-top: 20px;
+    width: 150px;
+}
+
+.abtbtn:hover{
+    background: #E3CAA5;
+    box-shadow:0px 0px 20px 2px #FFFBE9;
+    
+}
+
+.About_img{
+    height: 320px;
+    width: 350px;
+    
+}
+
+.Edu-cer{
+    display: flex;
+    flex-direction: row;
+    background-color: #E3CAA5;
+    padding: 60px 150px 60px 150px;
+    justify-content: space-between;
+}
+
+.Education{
+    
+}
+
+.Education-details{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.main-skill{
+    background: #7D5A50;
+    position: relative;
+    padding: 60px 150px 60px 150px;
+    
+}
+
+.skills{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.skills1{
+}
+
+.skills2{
+
+}
+
+.skills11{
+    display: flex;
+    flex-direction: row;
+}
+
+.box{
+    background: #AD8B73;
+    position: absolute;
+    width: 500px;
+    top: -20%;
+    left: 48%;
+    padding: 30px 50px 30px 50px;
+    border-radius: 2px;
+}
+
+.others{
+    background-color: #CEAB93;
+    display: flex;
+    flex-direction: row;
+    padding: 60px 150px 60px 150px;
+    justify-content: space-between;
+}
+
+.Projects{
+    background-color: #c35c17;
+    display: flex;
+    flex-direction: row;
+    padding: 60px 150px 60px 150px;
+    justify-content: space-between;
+}

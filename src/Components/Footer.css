@@ -1,0 +1,78 @@
+.font1{
+    font-family: "Bilbo Swash Caps", cursive;
+}
+
+.font2{
+    font-family: "Explora", serif;
+}
+
+.font3{
+    font-family: "Aref Ruqaa Ink", serif;
+}
+
+.Main-divs{
+    background-color: black;
+    color: white;
+    border-radius: 0px 0px 4px 4px; 
+    font-family: "Aref Ruqaa Ink", serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: medium;
+  padding: 60px 50px 20px 50px;
+}
+
+.First-part{
+    
+}
+
+.Second-part{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.Third-part{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    /* justify-content: space-between; */
+}
+
+.Fourth-part{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+     
+
+}
+
+.icons{
+    height: 80px;
+    width: 80px;
+}
+
+.why{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.contact-align{
+    display: flex;
+    flex-direction: row;    
+    align-items: center;
+    gap: 10px;
+}
+
+.contact-align > p{
+    
+}
+
+.contact-logo{
+    width: 20px;
+    height: 20px;
+    
+}

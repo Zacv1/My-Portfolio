@@ -1,0 +1,74 @@
+.font1{
+    font-family: "Bilbo Swash Caps", cursive;
+}
+
+.font2{
+    font-family: "Explora", serif;
+}
+
+.font3{
+    font-family: "Aref Ruqaa Ink", serif;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #c35c17;
+    color: white;
+    justify-content: space-between;
+    padding: 10px;
+    font-family: "Aref Ruqaa Ink", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: larger;
+}
+
+.left-noti{
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    gap: 20px;
+}
+
+.right-noti{
+    display: flex;
+    align-items: center;
+    padding-right: 20px;
+    gap: 20px;
+}
+
+.navbarlist{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    
+}
+
+.Searchbox{
+    padding: 4px;
+    border-radius: 4px;
+    
+}
+
+.noti-icon{
+    width: 26px;
+    height: 26px;
+}
+
+.notiDate{
+    display: flex;
+    align-items: center;
+}
+
+.noti-date-icon{
+    width: 26px;
+    height: 26px;
+}
+
+.notiImage{
+    /* border-radius: 50%; */
+    width: 50px;
+    height: 50px;
+}
